@@ -152,7 +152,13 @@ g++ client/client.cpp -o client.exe -lws2_32
    - Use the slider to set the thermostat temperature
    - View device status in real-time
 
-## Implementation Details
+## Group Members and Contributions
+
+| Name             | Contribution Areas                                   |
+|------------------|------------------------------------------------------|
+| Kanwar Sandhu    | Network design, server logic, testing , documentation|
+| Shashini Amasha  | Client logic, protocol design, documentation          |
+
 
 ### Client
 
